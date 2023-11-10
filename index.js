@@ -17,5 +17,5 @@ client.on('interactionCreate',interaction =>{
 })
 
 client.login(
-    "MTE3MjU4MTUzMzMyNDkzOTMwNA.GIomGn.AiyN_D_C8-ECMEXAYHpSswEefu9b6VpAxZv8kI"
+    `${TOKEN}`
 )
